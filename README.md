@@ -25,7 +25,7 @@ Our project aims to transform the landscape of decentralized autonomous organiza
 2. Clone the repo.
    
 ```
-https://github.com/MukulKolpe/OPHacks
+https://github.com/SohamKayal4103/DAOConnect
 ```
 3. Open in VS code or your preferred code editor.
 ```
